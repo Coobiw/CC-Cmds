@@ -1,0 +1,1 @@
+请读取README.md的`Introduction to Each Command`，判断是否完成了对commands目录下的全部.md文件（每个.md文件都代表一个claude code command）的介绍，如果未完成，则需要将还未加入到markdown表格的命令补充到README.md的`Introduction to Each Command`下的表格中，表格的列包括：命令名、语言、功能描述。
