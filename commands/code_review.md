@@ -1,1 +1,1 @@
-对比当前分支和main分支的差异，并给出review意见。
+Compare the differences between the current branch and the main branch, and provide review comments.
