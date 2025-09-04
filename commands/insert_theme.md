@@ -1,0 +1,1 @@
+Please copy the theme of the working directory or codebase, which is written in the head of `README.md`. Then, insert the theme to the head of `CLAUDE.md`, starting with `# TASK Description`.
