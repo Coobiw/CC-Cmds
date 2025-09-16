@@ -1,0 +1,1 @@
+Summarize the current context of the memory and add it to `CLAUDE.md` so that the claude code can know the current progress when reopened next time.
